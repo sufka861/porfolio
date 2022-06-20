@@ -62,7 +62,7 @@
       <div class="social-links">
         <a href="https://www.facebook.com/suf.karmon" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://www.instagram.com/sufkarmon/" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="www.linkedin.com/in/suf-karmon-3512621b2" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/suf-karmon-3512621b2" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         <a href="https://github.com/sufka861" class="github"><i class="bx bxl-github"></i></a>
       </div>
     </div>
